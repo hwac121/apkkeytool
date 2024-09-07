@@ -64,7 +64,7 @@ while [ "$menu" != 1 ]; do
 			echo -e "\e[34mStep 3: Run Make APK Key.\e[0m"
 			echo -e "\e[34mStep 4: Run Sign the APK.\e[0m"
 			echo -e "\e[34mBe sure to write down your password when asked for one, it will be needed during signing the APK package.\e[0m"
-			sleep 5
+			sleep 15
 		break
 		;;
 		"Setup")
