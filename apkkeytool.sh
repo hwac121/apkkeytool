@@ -4,8 +4,8 @@
 # Version: 1.0
 # Date: Sept. 7, 2024
 # Contact: hwac121@ptorbox.onion
-
-# GitHub: https://github.com/hwac121/APKKeyTool.git
+# Author: RJ Levesque, Jr. - Majik Cat Security
+# GitHub: https://github.com/hwac121
 
 #-----------------------------------------------------------------
 
